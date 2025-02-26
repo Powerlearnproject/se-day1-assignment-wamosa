@@ -36,7 +36,8 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-##Software engineering
+## Software engineering
+
 Software engineering is the systematic application of engineering principles to the design, development, testing, and maintenance of software. It ensures that software is scalable, reliable, and maintainable, playing a crucial role in modern technology-driven industries such as healthcare, finance, and telecommunications.
 
 ## Milestones in software engineering
@@ -78,8 +79,12 @@ IDEs improve code efficiency while VCs manage code  versions and collaborations
 - System: Tests the entire system
 - Acceptance: Verifies that the system meets user requirements.
 - Importance: They ensure software quality and reliability.
+
+- 
 ## AI and Prompt engineering
 Prompt engineering is the art of crafting precise and effective instructions, or "prompts," to guide AI models towards generating desired outputs.
+
+
 A vague prompt, such as "Write something about history," leaves an AI model with an overwhelming range of possibilities, leading to potentially broad and unfocused responses. In contrast, an improved prompt like "Write a concise summary of the key causes of the French Revolution, focusing on economic and social factors" is far more effective
 
 
